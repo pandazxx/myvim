@@ -13,6 +13,8 @@ Bundle 'gmarik/vundle'
 Bundle 'Lokaltog/vim-easymotion'
 Bundle 'kien/ctrlp.vim'
 Bundle 'scrooloose/nerdtree'
+Bundle 'Shougo/neocomplcache'
+Bundle 'scrooloose/syntastic'
 
 " non githup repos
 "Bundle 'git://git.wincent.com/command-t.git'
