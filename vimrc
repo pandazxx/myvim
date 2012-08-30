@@ -12,6 +12,7 @@ Bundle 'gmarik/vundle'
 " github
 Bundle 'Lokaltog/vim-easymotion'
 Bundle 'kien/ctrlp.vim'
+Bundle 'scrooloose/nerdtree'
 
 " non githup repos
 "Bundle 'git://git.wincent.com/command-t.git'
