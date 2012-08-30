@@ -15,6 +15,8 @@ Bundle 'kien/ctrlp.vim'
 Bundle 'scrooloose/nerdtree'
 Bundle 'Shougo/neocomplcache'
 Bundle 'scrooloose/syntastic'
+Bundle 'tpope/vim-fugitive'
+Bundle 'mileszs/ack.vim'
 
 " non githup repos
 "Bundle 'git://git.wincent.com/command-t.git'
