@@ -17,6 +17,7 @@ Bundle 'Shougo/neocomplcache'
 Bundle 'scrooloose/syntastic'
 Bundle 'tpope/vim-fugitive'
 Bundle 'mileszs/ack.vim'
+Bundle 'matchit.zip'
 
 " non githup repos
 "Bundle 'git://git.wincent.com/command-t.git'
@@ -87,9 +88,9 @@ set listchars=tab:,.,trail:.,extends:#,nbsp:. " Highlight problematic whitespace
 " }
 
 
-" File operation
-"
+" File operation {
 autocmd BufEnter * if bufname("") !~ "^\[A-Za-z0-9\]*://" | lcd %:p:h | endif
+" }
 
 
 
